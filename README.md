@@ -1,6 +1,6 @@
 # Convertidor de Monedas
 
-_Este es un programa en Java que convierte entre distintas monedas, utilizando archivos .jar de Gson y Json.org para manejar la serialización y deserialización de datos en formato JSON. También maneja conversiones de moneda basadas en tasas de cambio obtenidas desde una API._
+_Este programa es un changelle del programa Alura con ONE creado en Java que convierte entre distintas monedas, utilizando archivos .jar de Gson y Json.org para manejar la serialización y deserialización de datos en formato JSON. También maneja conversiones de moneda basadas en tasas de cambio obtenidas desde una API._
 
 ## Comenzando 🚀
 
@@ -145,6 +145,7 @@ _Herramientas utilizadas en el desarrollo del proyecto:_
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [Gson](https://github.com/google/gson) - Para trabajar con JSON
 * [Json.org](https://www.json.org/json-en.html) - Otra biblioteca para trabajar con JSON
+* [ExachangeRate-API](https://www.exchangerate-api.com/docs/pair-conversion-requests) - API para el intercambio de monedas en tiempo real
 
 ## Versionado 📌
 
@@ -163,6 +164,7 @@ Este proyecto no está licenciado.
 ## Expresiones de Gratitud 🎁
 
 * Gracias ONE y Alura por la oportunidad 📢
+* Gracias ExchangeRate-API por apoyar mis estudios 📢
 * Gracias a todos los que usen el convertidor 🤓.
 
 
