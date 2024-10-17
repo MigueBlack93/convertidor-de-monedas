@@ -1,0 +1,20 @@
+[
+  {
+    "moneda_origen": "ARS",
+    "valor_origen": 45635.65,
+    "moneda_a_convertir": "NPR",
+    "valor_convertido": 6270.338310,
+    "tasaDeCambio": 0.1374,
+    "hora": "18:15",
+    "fecha": "13/10/2024"
+  },
+  {
+    "moneda_origen": "EUR",
+    "valor_origen": 465,
+    "moneda_a_convertir": "CAD",
+    "valor_convertido": 699.7785,
+    "tasaDeCambio": 1.5049,
+    "hora": "18:16",
+    "fecha": "13/10/2024"
+  }
+]
